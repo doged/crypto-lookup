@@ -24,8 +24,8 @@ function createContextMenu() {
 	    "contexts" : ["selection"]
 	});
 	chrome.contextMenus.create({
-		"id" : "lookupDOGETX",
-	    "title" : "Look Up Dogecoin TXID",
+		"id" : "lookupDOGEDTX",
+	    "title" : "Look Up DogecoinDark TXID",
 	    "type" : "normal",
 	    "contexts" : ["selection"]
 	});
